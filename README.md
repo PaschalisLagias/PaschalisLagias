@@ -10,14 +10,14 @@ My academic background includes the following qualifications starting from the m
 Looking forward, I am interested in working further on data engineering and machine learning projects.
 
 Technologies and tools:
-* Python programming including data science libraries like numpy, scipy, pandas, scikitlearn and keras
+* Python programming including data science libraries like numpy, scipy, pandas, scikit-learn, keras and pytorch.
 * PyCharm
 * Anaconda
 * Jupyter
 * SQL databases (Oracle, MySQL)
 * Power BI
 * R and R Studio
-* Git
+* Git for version control
 * ArcGIS Desktop, Server and Portal
 * VBA programming
 * Google Cloud Platform
